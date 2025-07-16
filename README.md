@@ -1,6 +1,6 @@
 <h1>Hey friends, I’m Zain! 👽</h1>
 
-<p>I'm a first class computer science and business grad from the University of Warwick | currently: business analyst @ mckinsey 🎓</p>
+<p>I'm a first class, highest in cohort, computer science and business grad from the University of Warwick | currently: founders associate @ incident.io | prev: mckinsey 🎓</p>
 
 <a href="https://www.linkedin.com/in/zainmobarik/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><span> </span>
